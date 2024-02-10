@@ -1,0 +1,1 @@
+Project done for the Ordinary Differential Equation subject in college, where I made a simple calculator that calculates the function the user inputs with it's respective parameters, using the 1st order Euler Method.
